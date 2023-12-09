@@ -1,3 +1,11 @@
+/*
+Revised Practice Question 3: Two-Way Communication for Text Data Processing
+
+Task:
+
+Refactor processTextDataInIsolate to process text data using two-way communication. The main isolate can send text data to the spawned isolate for processing (e.g., word count, reverse words) and receive processed data back.
+ */
+
 library;
 
 import 'dart:async';
